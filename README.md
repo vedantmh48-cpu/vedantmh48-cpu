@@ -74,8 +74,37 @@ const vedant = {
 
 </div>
 🛠️ MY CREATIVE TOOLKIT
-🎨 Frontend & Experience
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,gsap,framer" /> </p> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827"/> <img src="https://img.shields.io/badge/HTML5-FF6B6B?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-7F5AF0?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111827"/> <img src="https://img.shields.io/badge/Framer_Motion-FF6B6B?style=flat-square&logo=framer&logoColor=white"/> </p>
+<div align="center">
+
+<h3>🎨 Frontend & Experience</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite"
+  alt="React, JavaScript, HTML, CSS, Tailwind CSS, and Vite"
+/>
+
+</div>
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
+
+  <img src="https://img.shields.io/badge/HTML5-FF6B6B?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+
+  <img src="https://img.shields.io/badge/CSS3-7F5AF0?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111827" alt="GSAP"/>
+
+  <img src="https://img.shields.io/badge/Framer_Motion-FF6B6B?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+
+</p>
 ⚙️ Backend, Data & Systems
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,php,python,cpp,mysql" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Node.js-7BC043?style=flat-square&logo=nodedotjs&logoColor=111827"/> <img src="https://img.shields.io/badge/PHP-8B7CF6?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD166?style=flat-square&logo=python&logoColor=111827"/> <img src="https://img.shields.io/badge/C%2B%2B-4EA8DE?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-5BC0EB?style=flat-square&logo=mysql&logoColor=111827"/> </p>
 🚀 FEATURED BUILDS

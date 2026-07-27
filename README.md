@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=800&color=FFCA3A&center=true&vCenter=true&width=900&lines=I+design+interfaces+with+personality+✨;I+build+full-stack+experiences+⚡;I+turn+ideas+into+real+products+🚀;Welcome+to+my+digital+playground+🎨" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space%20Mono&weight=700&size=23&duration=2600&pause=800&color=FFCA3A&center=true&vCenter=true&width=900&lines=I%20design%20interfaces%20with%20personality%20%E2%9C%A8;I%20build%20full-stack%20experiences%20%E2%9A%A1;I%20turn%20ideas%20into%20real%20products%20%F0%9F%9A%80;Welcome%20to%20my%20digital%20playground%20%F0%9F%8E%A8" alt="Typing intro" />
 
 <br><br>
 

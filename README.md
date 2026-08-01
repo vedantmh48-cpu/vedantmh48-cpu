@@ -1,43 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VEDANT%20MHATRE&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CREATIVE%20DEVELOPER%20%7C%20FULL-STACK%20BUILDER%20%7C%20UI%2FUX%20EXPLORER&descAlignY=62&descSize=18&fontAlign=50&color=0:050505,35:8B0000,70:E50914,100:0B3D91" width="100%" alt="Spider-Man inspired header"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VEDANT%20MHATRE&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CREATIVE%20DEVELOPER%20%7C%20FULL-STACK%20BUILDER%20%7C%20UI%2FUX%20EXPLORER&descAlignY=62&descSize=18&fontAlign=50&color=0:050505,35:8B0000,70:E50914,100:0B3D91" width="100%" alt="Spider-Man inspired header"/>
 
-<br>
+  <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2200&pause=700&color=E50914&center=true&vCenter=true&width=950&lines=%F0%9F%95%B7%EF%B8%8F+WITH+GREAT+POWER+COMES+GREAT+CODE;%E2%9A%A1+CREATIVE+IDEAS.+POWERFUL+CODE.;%F0%9F%95%B8+I+DESIGN+INTERFACES+WITH+PERSONALITY;%F0%9F%9A%80+I+TURN+IDEAS+INTO+REAL+PRODUCTS;%F0%9F%95%B7%EF%B8%8F+WELCOME+TO+MY+SPIDER-VERSE" alt="Animated typing introduction"/>
-
-<br><br>
+  <!-- Dynamic Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=600&color=E50914&center=true&vCenter=true&width=950&lines=%F0%9F%95%B7%EF%B8%8F+WITH+GREAT+POWER+COMES+GREAT+CODE;%E2%9A%A1+CREATIVE+IDEAS.+POWERFUL+CODE.;%F0%9F%95%B8+DESIGNING+INTERFACES+WITH+PERSONALITY;%F0%9F%9A%80+TURNING+IDEAS+INTO+REAL+PRODUCTS;%F0%9F%95%B7%EF%B8%8F+WELCOME+TO+MY+SPIDER-VERSE" alt="Animated typing header"/>
+  </a>
 
 </div>
 
+<br>
+
+<!-- Hero Bio Section -->
 <table>
 <tr>
 
 <td width="65%" valign="middle">
 
-<h1>🕷️ Hey, I'm Vedant Mhatre</h1>
+  <!-- Animated Heading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=1000&color=E50914&center=false&vCenter=true&width=600&lines=%F0%9F%95%B7%EF%B8%8F+HEY%2C+I'M+VEDANT+MHATRE" alt="Animated Name Banner"/>
+  
+  <br>
 
-<h3>⚡ Creative Developer • Full-Stack Builder • UI/UX Explorer</h3>
+  <!-- Animated Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=800&color=0B3D91&center=false&vCenter=true&width=600&lines=%E2%9A%A1+CREATIVE+DEVELOPER+%E2%80%A2+FULL-STACK+BUILDER+%E2%80%A2+UI%2FUX+EXPLORER" alt="Animated Title Banner"/>
 
-<p>
-<strong>I build digital experiences with the mindset of a web-slinger:</strong>
-<br>
-fast, creative, curious, and always ready to climb higher.
-</p>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=18&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=I+build+digital+experiences+with+the+mindset+of+a+web-slinger%3A;Fast%2C+creative%2C+curious%2C+and+always+ready+to+climb+higher." alt="Animated Mindset Text"/>
+    </a>
+  </p>
 
-<p>
-🕸️ Turning ideas into interfaces<br>
-🕷️ Turning code into experiences<br>
-⚡ Turning imagination into real products
-</p>
+  <!-- Animated Core Pillars -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2500&pause=700&color=E50914&center=false&vCenter=true&width=600&lines=%F0%9F%95%B8%EF%B8%8F+Turning+ideas+into+interfaces;%F0%9F%95%B7%EF%B8%8F+Turning+code+into+experiences;%E2%9A%A1+Turning+imagination+into+real+products" alt="Animated Core Pillars"/>
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUzb2d4bmJ0aGJncmR4anJjZmVyNWx6a3Qzejhud2kwNXljYXI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="280" alt="Funny Spider-Man GIF"/>
-<br>
-<sub>Actual footage of me debugging CSS.</sub>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUzb2d4bmJ0aGJncmR4anJjZmVyNWx6a3Qzejhud2kwNXljYXI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="280" alt="Debugging CSS GIF"/>
+  <br>
+  <sub><b>Actual footage of me debugging CSS.</b></sub>
 
 </td>
 
@@ -46,35 +52,36 @@ fast, creative, curious, and always ready to climb higher.
 
 <br>
 
+<!-- Live Social / Visitor Stats -->
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vedantmh48-cpu&label=%F0%9F%95%B7%EF%B8%8F%20VISITORS&color=E50914&style=for-the-badge" alt="Profile visitors"/>
-
-<img src="https://img.shields.io/github/followers/vedantmh48-cpu?label=%F0%9F%95%B8%EF%B8%8F%20FOLLOWERS&style=for-the-badge&color=0B3D91" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/vedantmh48-cpu?label=%E2%AD%90%20STARS&style=for-the-badge&color=E50914" alt="Stars"/>
-
+  <img src="https://komarev.com/ghpvc/?username=vedantmh48-cpu&label=%F0%9F%95%B7%EF%B8%8F%20VISITORS&color=E50914&style=for-the-badge" alt="Profile visitors"/>
+  <img src="https://img.shields.io/github/followers/vedantmh48-cpu?label=%F0%9F%95%B8%EF%B8%8F%20FOLLOWERS&style=for-the-badge&color=0B3D91" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vedantmh48-cpu?label=%E2%AD%90%20STARS&style=for-the-badge&color=E50914" alt="Stars"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:E50914,50:0B3D91,100:E50914" width="100%" alt="Spider-Man divider"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:E50914,50:0B3D91,100:E50914" width="100%" alt="Spider-Man divider"/>
 </div>
 
 ---
 
+<!-- About Me Section -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=750&lines=%F0%9F%95%B7%EF%B8%8F+THE+SPIDER-VERSE%3A+ABOUT+ME" alt="About Me Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=750&lines=%F0%9F%95%B7%EF%B8%8F+THE+SPIDER-VERSE%3A+ABOUT+ME" alt="About Me"/>
-
-<br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV1cG1kZ2E0ajgxenF4bmNwdG9lbHN3ZnZnZ2lsb3QyYms3eGcwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtVp5M9kfWR0KtUp3f/giphy.gif" width="60%" alt="Spider-Man into the Spider-Verse GIF"/>
-<br>
-
+  <br>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV1cG1kZ2E0ajgxenF4bmNwdG9lbHN3ZnZnZ2lsb3QyYms3eGcwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtVp5M9kfWR0KtUp3f/giphy.gif" width="55%" alt="Into the Spider-Verse GIF"/>
+  <br>
 </div>
+
+<br>
+
+<!-- Interactive Collapsible Modules -->
+<details>
+<summary><b>🕸️ CLICK TO EXPAND: MISSION PROTOCOL & PHILOSOPHY</b></summary>
+<br>
 
 > **Hey, I'm Vedant — a developer who likes turning blank screens into experiences that feel alive.**
 
@@ -82,10 +89,9 @@ I enjoy building full-stack applications, designing clean and expressive interfa
 
 My playground is where:
 
-```text
+
 🕸️ CODE  +  🎨 CREATIVITY  +  ⚡ ENERGY  =  🚀 DIGITAL EXPERIENCES
-```
-### 🕷️ DESIGN WITH INTENT • BUILD WITH POWER • SHIP WITH PURPOSE 🕸️
+
 </div>
 <br>
 <div align="center">
@@ -95,18 +101,13 @@ My playground is where:
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1000&color=0B3D91&center=true&vCenter=true&width=750&lines=%F0%9F%A7%AC+MY+DEVELOPER+DNA" alt="Developer DNA"/>
 </div>
-```javascript
 
+javascript
+```text
 const vedant = {
 
   alias: "Creative Web-Slinger 🕷️",
-
-
-
   role: "Creative Full-Stack Developer",
-
-
-
   mindset: "Build. Experiment. Improve. Repeat.",
 
 
@@ -124,7 +125,6 @@ const vedant = {
   ],
 
 
-
   currentlyBuilding: [
 
     "E-commerce experiences",
@@ -136,19 +136,16 @@ const vedant = {
   ],
 
 
-
   philosophy:
-
     "With great code comes great user experiences ⚡",
 
-
-
   superpower:
-
     "Making functional products feel exciting ✨"
 
 };
+```
 <div align="center">
+
 🕷️ STATUS: ONLINE
 <br>
 🧠 MODE: BUILDING
